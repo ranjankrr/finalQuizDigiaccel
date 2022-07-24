@@ -1,3 +1,10 @@
+
+ I used NPM module in this app:
+ 1. axios
+ 2. react-router-dom
+ 3. material Ui
+ 4. 100% fully resoponsive Quiz App
+
 # Trivia API
 
 https://opentdb.com/api.php?amount=20&category=${9 to 32}&difficulty=${ easy or medium or hard }&type=multiple
